@@ -1,6 +1,6 @@
 # Menu_digital
 
-Menu digital com acesso por QR Code, desenvolvido na Maratona Explorer da Rocketseat
+Menu digital com acesso por QR Code
 
 
 <div align="center">
