@@ -1,6 +1,6 @@
 # Menu_digital
 
-Menu digital com acesso por QR Code
+Cardapio digital criado para uma cafeteria com acesso por QR Code 
 
 
 <div align="center">
