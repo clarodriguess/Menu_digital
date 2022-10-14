@@ -5,6 +5,9 @@
 }
     
 body{
+    width: 350px;
+    margin: auto;
+    box-shadow: 4px 4px 9px 0px #00000050;
     background-image: linear-gradient(160deg, #fffce0,#fff4e4, #f4cc95a0);
 }
 
@@ -69,14 +72,13 @@ ul li{
 li .details{
     max-width: 240px;
     color: rgba(0, 0, 0, 0.85)
-    }
+}
 
 .details h3{
     margin-bottom: 8px;
 }
 
-footer{
-    background-color: #415d3f11;
+footer{    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
     font-weight: lighter;
     font-size: small;
